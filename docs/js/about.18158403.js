@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunknew_world"]=self["webpackChunknew_world"]||[]).push([[594],{2425:function(e,n,r){r.r(n),r.d(n,{default:function(){return d}});var o=r(641);function t(e,n,r,t,u,l){return(0,o.uX)(),(0,o.CE)("p",null,"About View")}var u={data(){return{}},methods:{refresh(){console.log("刷新页面"),window.location.reload()}},mounted(){}},l=r(6262);const a=(0,l.A)(u,[["render",t]]);var d=a}}]);
-//# sourceMappingURL=about.18158403.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknew_world"]=self["webpackChunknew_world"]||[]).push([[378],{9378:function(n,r,u){u.r(r),u.d(r,{default:function(){return d}});var e=u(641);const t=(0,e.Lk)("p",null,"map",-1),l=[t];function c(n,r){return(0,e.uX)(),(0,e.CE)("div",null,l)}var a=u(6262);const o={},s=(0,a.A)(o,[["render",c]]);var d=s}}]);
+//# sourceMappingURL=378.dadf9483.js.map
